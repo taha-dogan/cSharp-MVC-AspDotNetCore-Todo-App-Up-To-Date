@@ -21,7 +21,6 @@ public class HomeController : Controller
         return View(todoListViewModel);
     }
 
-
     internal TodoViewModel GetAllTodos()
     {
         List<TodoItem> todoList = new();

@@ -1,4 +1,3 @@
-using Todo.Models;
 
 namespace Todo.Models.ViewModels
 {
